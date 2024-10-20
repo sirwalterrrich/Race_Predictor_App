@@ -3,6 +3,8 @@
 
 This web app provides estimated race finish times based on fitness data, while tracking your current pace, average pace, and goal pace. It also includes a stopwatch, countdown timer, and a fun soundboard feature using the pygame library.
 
+# view the app live here
+https://race-predictor-app.onrender.com/
 
 ## Features
 
