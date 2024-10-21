@@ -3,7 +3,6 @@ import os
 
 app = Flask(__name__)
 
-# Ensure the sound files are in a folder named 'static'
 @app.route('/')
 def index():
     return render_template('index.html')
